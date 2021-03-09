@@ -1,4 +1,8 @@
- import java.util.Scanner;
+/* 
+ *  Description: A Java Program utilizing a scanner to determine whether an integer is divisible by 2 and/or 3
+*/
+
+import java.util.Scanner;
  
   public class Logical {
   public static void main(String[] args) {
