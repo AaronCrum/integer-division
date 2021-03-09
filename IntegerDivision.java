@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
  
-  public class Logical {
+  public class IntegerDivision {
   public static void main(String[] args) {
   // Create a Scanner
   Scanner input = new Scanner(System.in);
